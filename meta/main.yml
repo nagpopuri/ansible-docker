@@ -4,7 +4,7 @@ galaxy_info:
   author: Sumanth Popuri
   description: Install Docker and optionally Docker Compose.
   company:
-  license: license MIT
+  license: Free
   min_ansible_version: 2.0
 
   platforms:
