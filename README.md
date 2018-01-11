@@ -98,19 +98,7 @@ opening or creating `group_vars/app.yml` which is located relative to your
 docker_users: ['deploy']
 ```
 
-If you're looking for an Ansible role to create users, then check out my
-[user role](https://github.com/nickjj/ansible-user).
+.
 
-## Installation
 
-`$ ansible-galaxy install nickjj.docker`
 
-## Ansible Galaxy
-
-You can find it on the official
-[Ansible Galaxy](https://galaxy.ansible.com/nickjj/docker/) if you want to
-rate it.
-
-## License
-
-MIT
